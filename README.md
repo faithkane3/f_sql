@@ -1,6 +1,6 @@
 ## Database review materials and practice using sql.
 
-### Quick Visual of SQL Clause Written and Run Order
+### Quick Visual of SQL Clause Written Query Order
 ___
 
 #### Clause Written Order

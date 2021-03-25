@@ -1,7 +1,6 @@
 -- 1. Create a file named where_exercises.sql. Make sure to use the employees database.
 
 USE employees;
-SELECT database();
 
 -- 2. Find all employees with first names 'Irena', 'Vidya', or 'Maya' using IN. Enter a comment with the number of records returned. (observations or rows)
 

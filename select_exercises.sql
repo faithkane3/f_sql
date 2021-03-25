@@ -40,7 +40,7 @@ SELECT
 	name, 
 	release_date
 FROM albums
-WHERE release_date BETWEEN '1990' AND '1999';
+WHERE release_date BETWEEN 1990 AND 1999;
 
 -- e. Which albums had less than 20 million certified sales
 SELECT 

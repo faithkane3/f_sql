@@ -8,7 +8,7 @@ SELECT DISTINCT
 	title
 FROM titles;
 
--- 3. Write a query to to find a list of all unique last names of all employees that start and end with 'E' using GROUP BY.
+-- 3. Write a query to find a list of all unique last names of all employees that start and end with 'E' using GROUP BY.
 
 SELECT
 	last_name
